@@ -1,0 +1,7 @@
+{
+    "plugintypes": {
+        "usagemonitordata": "local/usagemonitor/data",
+        "usagemonitorstats": "local/usagemonitor/stats",
+        "usagemonitorcollec": "local/usagemonitor/stats/offerfull/collection"
+    }
+}
