@@ -1,6 +1,6 @@
 # Local plugin : Usage Monitor for Moodle
 
-- Source Code: 
+- Source Code: https://github.com/reseaucanope/moodle-local_usagemonitor
 - License: http://www.gnu.org/licenses/gpl-3.0.html
 
 ## Install from an archive
