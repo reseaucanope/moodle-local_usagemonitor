@@ -10,13 +10,13 @@
 
 ## Description
 
-The usage monitor provides a basic framework to add your own custom data visualisations to your Moodle platforme. It works by using two types of subplugins that take care of managing the data and providing the visuals :
+The usage monitor plugin provides a basic framework to add your own custom data visualisations to your Moodle platform. It works by using two types of subplugins that take care of managing the data and providing the visuals :
     - data subplugin : collect, store and provide data about your Moodle platforme. The data subplugins only need to implement the get_data function used to provides the data to the webservice. The usage monitor webservice can be called to fetch any *data subplugin* data.
     - stats subplugin : provide the visuals for the subplugin data. The stats subplugins need to implement the get_content function used to provide the visuals for the main page.
 
 This plugin is intended to be used with at least one data or stats subplugins and does not provide any features by itself.
 
-This plugin is developped and maintained by [Reseau-Canope](https://www.reseau-canope.fr/) since 2022.
+This plugin is developped and maintained by DNE - Ministère de l'Education Nationale since 2022.
 
 ## Documentation
 
